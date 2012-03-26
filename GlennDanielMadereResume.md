@@ -1,7 +1,7 @@
 # G. Dan Madere
 
-* <dan@danmadere.com>
-* 732-948-3173
+* **Email**: <dan@danmadere.com>
+* **Mobile**: +1 732-948-3173
 
 ## Background
 
@@ -15,21 +15,21 @@ Pennsylvania State University, State College, PA
 
 ## Technical background
 
- > Web: XHTML, CSS, JavaScript, jQuery, PHP, Perl, Scraping
+* **Web**: XHTML, CSS, JavaScript, jQuery, PHP, Perl, Scraping
 
- > Ruby on Rails: Devise, Haml, Heroku, Passenger, Resque, Sinatra
+* **Ruby on Rails**: Devise, Haml, Heroku, Passenger, Resque, Sinatra
 
- > Database: MySQL, SQLite, Postgres
+* **Database**: MySQL, SQLite, Postgres
 
- > Linux: Apache, Asterisk, CentOS, nginx, Red Hat, Ubuntu
+* **Linux**: Apache, Asterisk, CentOS, nginx, Red Hat, Ubuntu
 
- > Protocols: HTTP, LDAP, oAuth, Redis
+* **Protocols**: HTTP, LDAP, oAuth, Redis
 
 ## Work Experience
 
-### Achieve3000, Lakewood, NJ
-#### Application Engineer
-#### January 2009 – Present
+### Achieve3000 Inc., Lakewood, NJ
+
+* _Application Engineer, January 2009 – Present_
 
 * Developed three internal Ruby on Rails utilities, including an employee directory, a mass user account creation utility and an automated sales territory assignment application for a company providing web-based literacy solutions for students in grades two through twelve.
 
@@ -47,16 +47,16 @@ Resolved 150 weekly technical support tickets for custom web-based, CRM, Intrane
 * Earned a promotion in June 2011 from Technical Support Representative to Application Engineer. 
 
 ### Waterdog Computer Works, Wayne, PA
-#### PC Technician
-#### October 2008 – September 2009
+
+* _PC Technician, October 2008 – September 2009_
 	
 * Documented customer calls, visits, and provided services using the ServiceLedger software.
 
 * Enhanced the Company website by adding and redesigning pages, and updating references to out of date technologies using PHP, HTML and CSS. 
 
 ### TEMIS, Inc., Philadelphia, PA
-#### Text Mining Consultant
-#### June 2008 – September 2008
+
+* _Text Mining Consultant, June 2008 – September 2008_
  	 
 * Prepared five custom product configurations and demonstrations to showcase Luxid, the company’s Java-based semantic analysis application suite. 
 
@@ -69,8 +69,8 @@ Resolved 150 weekly technical support tickets for custom web-based, CRM, Intrane
 * Administered customer implementations of the company software suite and internal Web servers for demonstrations.
 
 ### Lightning Gaming, Inc., Boothwyn, PA
-#### Technical Support Representative
-#### November 2007 – June 2008 
+
+* _Technical Support Representative, November 2007 – June 2008_
 
 * Provided 24/7 on-site and on-call customer support for a casino gaming system. 
 
@@ -87,7 +87,8 @@ Travelled to customer locations to perform emergency repairs and replacements.
 * Documented support processes and product knowledge on internal wiki.
 
 ### Freelance Web Developer (self employed), Wayne, PA
-#### October 2008 – January 2009 
+
+* _October 2008 – January 2009_
 
 * Created an online ordering system for a restaurant and a wedding registry online store in PHP, based on Zen Cart.
 
