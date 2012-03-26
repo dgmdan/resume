@@ -1,7 +1,7 @@
 # G. Dan Madere
 
 * **Email**: <dan@danmadere.com>
-* **Mobile**: +1 732-948-3173
+* **Mobile**: +1 (732) 948-3173
 
 ## Background
 
