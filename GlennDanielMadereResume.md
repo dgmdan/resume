@@ -1,7 +1,6 @@
 # G. Dan Madere
 
 * <dan@danmadere.com>
-* http://danmadere.com
 * 732-948-3173
 
 ## Background
