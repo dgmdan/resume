@@ -46,6 +46,24 @@ Resolved 150 weekly technical support tickets for custom web-based, CRM, Intrane
 
 * Earned a promotion in June 2011 from Technical Support Representative to Application Engineer. 
 
+### Freelance Web Developer (self employed), Wayne, PA
+
+* _October 2008 – Present_
+
+* Created an online ordering system for a restaurant and a wedding registry online store in PHP, based on Zen Cart.
+
+* Designed and developed two web sites by writing custom HTML and CSS and customizing Zen Cart.
+
+* Completed a dozen Web scraping projects in Perl and Ruby, some involving solving CAPTCHAs.  
+
+* Developed a Ruby on Rails application to manage a historical museum’s inventory and donation records.
+
+* Wrote a Perl web scraper capable of enrolling university students in full classes when a spot becomes available.
+
+* Created a Ruby web scraper capable of accepting substitute teaching jobs.
+
+* Created a small Perl utility for gathering historical baseball statistics and importing them into a MySQL database.
+
 ### Waterdog Computer Works, Wayne, PA
 
 * _PC Technician, October 2008 – September 2009_
@@ -85,20 +103,3 @@ Wrote a Perl script to mass-generate cards for promotions and new deployments.
 Travelled to customer locations to perform emergency repairs and replacements.
 
 * Documented support processes and product knowledge on internal wiki.
-
-### Freelance Web Developer (self employed), Wayne, PA
-
-* _October 2008 – January 2009_
-
-* Created an online ordering system for a restaurant and a wedding registry online store in PHP, based on Zen Cart.
-
-* Designed and developed two web sites by writing custom HTML and CSS and customizing Zen Cart.
-
-* Completed a dozen Web scraping projects in Perl and Ruby, some involving solving CAPTCHAs.  
-
-* Developed a Ruby on Rails application to manage a historical museum’s inventory and donation records.
-
-* Wrote a Perl web scraper capable of enrolling university students in full classes when a spot becomes available.
-Created a Ruby web scraper capable of accepting substitute teaching jobs.
-
-* Created a small Perl utility for gathering historical baseball statistics and importing them into a MySQL database.
