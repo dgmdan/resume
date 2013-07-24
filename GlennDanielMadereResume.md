@@ -1,11 +1,10 @@
 # G. Dan Madere
 
 * **Email**: <dan@danmadere.com>
-* **Mobile**: +1 (732) 948-3173
 
 ## Background
 
-A Ruby on Rails developer with one year of development work experience, specializing in designing and implementing tools and utilities that run alongside legacy web applications.
+A Ruby on Rails developer with two years of development work experience.
 
 ## Education
 
@@ -27,9 +26,19 @@ Pennsylvania State University, State College, PA
 
 ## Work Experience
 
+### Yashi Media Group, Toms River, NJ
+
+* _Front End Developer, June 2013 – present_
+
+* Developed PHP and Ruby code for company delivering online advertising.
+
+* Designed and implemented new projects using Ruby on Rails.
+
+* Developed and adminstered existing CodeIgniter and Wordpress applications.
+
 ### Achieve3000 Inc., Lakewood, NJ
 
-* _Application Engineer, January 2009 – Present_
+* _Application Engineer, January 2009 – June 2013_
 
 * Developed three internal Ruby on Rails utilities, including an employee directory, a mass user account creation utility and an automated sales territory assignment application for a company providing web-based literacy solutions for students in grades two through twelve.
 
@@ -46,23 +55,23 @@ Resolved 150 weekly technical support tickets for custom web-based, CRM, Intrane
 
 * Earned a promotion in June 2011 from Technical Support Representative to Application Engineer. 
 
-### Freelance Web Developer (self employed), Wayne, PA
+### Freelance Web Developer
 
-* _October 2008 – Present_
+* Created a tool in Ruby on Rails to help diagnose compatibility problems on Web sites:
+http://www.compatibuddy.com
 
-* Created an online ordering system for a restaurant and a wedding registry online store in PHP, based on Zen Cart.
+* Created an online store in PHP for small publishing company:
+http://www.readablepress.com
 
-* Designed and developed two web sites by writing custom HTML and CSS and customizing Zen Cart.
+* Contributed torwards development of Django application for startup offering localized consumer reviews.
 
-* Completed a dozen Web scraping projects in Perl and Ruby, some involving solving CAPTCHAs.  
+* Completed a dozen Web scraping projects in Perl and Ruby, some involving solving CAPTCHAs.
 
 * Developed a Ruby on Rails application to manage a historical museum’s inventory and donation records.
 
 * Wrote a Perl web scraper capable of enrolling university students in full classes when a spot becomes available.
 
 * Created a Ruby web scraper capable of accepting substitute teaching jobs.
-
-* Created a small Perl utility for gathering historical baseball statistics and importing them into a MySQL database.
 
 ### Waterdog Computer Works, Wayne, PA
 
@@ -100,6 +109,6 @@ Wrote a Perl script to mass-generate cards for promotions and new deployments.
 * Performed software and hardware new release product testing in coordination with the QA department.
 
 * Set up, troubleshot, and demonstrated the product in front of an audience at the Montreal Gaming Expo. 
-Travelled to customer locations to perform emergency repairs and replacements.
+Traveled to customer locations to perform emergency repairs and replacements.
 
 * Documented support processes and product knowledge on internal wiki.
