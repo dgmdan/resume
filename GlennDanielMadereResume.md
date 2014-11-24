@@ -4,7 +4,7 @@
 
 ## Background
 
-A Ruby on Rails developer with two years of development work experience.
+Full stack Web developer with three years of development work experience.
 
 ## Education
 
@@ -14,23 +14,35 @@ Pennsylvania State University, State College, PA
 
 ## Technical background
 
-* **Web**: XHTML, CSS, JavaScript, jQuery, PHP, Perl, Scraping
+* **Web**: XHTML, CSS, JavaScript, jQuery
 
-* **Ruby on Rails**: Devise, Haml, Heroku, Passenger, Resque, Sinatra
+* **Ruby**: Rails, Devise, Haml, Heroku, Passenger, Resque, Sinatra
+
+* **Python**: Django, Allauth
 
 * **Database**: MySQL, SQLite, Postgres
 
 * **Linux**: Apache, Asterisk, CentOS, nginx, Red Hat, Ubuntu
 
-* **Protocols**: HTTP, LDAP, oAuth, Redis
-
 ## Work Experience
+
+### Marathon Data Systems, Neptune, NJ
+
+* _Support Engineer, October 2013 - present_
+
+* Developed C#, .NET and VBScript applications for field service management software.
+
+* Developed reports using third party tools Exago eWebReports and DevExpress.
+
+* Collaborated with customer support, quality assurance and other developers to meet customer expectations and SLAs.
+
+* Contributed to requirements gathering and development work on custom software modifications.
 
 ### Yashi Media Group, Toms River, NJ
 
-* _Front End Developer, June 2013 – present_
+* _Front End Developer, June 2013 – October 2013_
 
-* Developed PHP and Ruby code for company delivering online advertising.
+* Developed PHP and Ruby applications for company delivering online video advertising.
 
 * Designed and implemented new projects using Ruby on Rails.
 
