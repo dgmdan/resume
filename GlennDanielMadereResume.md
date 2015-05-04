@@ -4,7 +4,7 @@
 
 ## Background
 
-Full stack Web developer with three years of development work experience.
+Full stack Web developer with four years of development work experience.
 
 ## Education
 
@@ -28,44 +28,51 @@ Pennsylvania State University, State College, PA
 
 ### Marathon Data Systems, Neptune, NJ
 
-* _Support Engineer, October 2013 - present_
+* _Software Engineer, October 2013 - present_
 
-* Developed C#, .NET and VBScript applications for field service management software.
+* Developed software modifications and fixed bugs on PestPac, an industry leading field service management software.
 
-* Developed reports using third party tools Exago eWebReports and DevExpress.
+* Wrote custom reports and performed complex data updates using MS-SQL.
 
-* Collaborated with customer support, quality assurance and other developers to meet customer expectations and SLAs.
+* Collaborated with customer support and quality assurance teams to meet customer expectations and SLAs.
 
-* Contributed to requirements gathering and development work on custom software modifications.
+* Contributed to requirements gathering and development of custom software modifications.
+
+### Bizyhood, Marlboro, NJ
+
+* _Consultant, March 2013 - April 2015_
+
+* Developed features on a new Django site for a startup company offering small business marketing tools.
+
+* Projects included basic CRUD, schema design, user authentication, oAuth, content moderation and consuming REST APIs.
+
+* Developed a Wordpress plugin in PHP.
+
+* Collaborated with CEO, senior developer and UX designer to plan and execute the creation of a new product.
+
+* Worked on a remote team.
 
 ### Yashi Media Group, Toms River, NJ
 
 * _Front End Developer, June 2013 – October 2013_
 
-* Developed PHP and Ruby applications for company delivering online video advertising.
+* Developed a Ruby on Rails application for company delivering online video advertising. 
 
-* Designed and implemented new projects using Ruby on Rails.
+* Created a video advertising campaign management application with a REST API. 
 
-* Developed and adminstered existing CodeIgniter and Wordpress applications.
+* Extended existing CodeIgniter and Wordpress applications. 
+
+* Administered two dozen Ubuntu Web servers.
 
 ### Achieve3000 Inc., Lakewood, NJ
 
 * _Application Engineer, January 2009 – June 2013_
 
-* Developed three internal Ruby on Rails utilities, including an employee directory, a mass user account creation utility and an automated sales territory assignment application for a company providing web-based literacy solutions for students in grades two through twelve.
+* Developed PHP and Ruby applications for this SaaS company serving K-12 schools. 
 
-* Automated dozens of custom reports from proprietary product and internal CRM MySQL databases to combine product data and provide automated delivery of financial and product usage reports. 
-Resolved 150 weekly technical support tickets for custom web-based, CRM, Intranet, and NetSuite products.
+* Served as Salesforce.com administrator, developed data integrations between SFDC and other systems. 
 
-* Created a Ruby on Rails application that streamlined the customer user account creation process, saving the company an estimated 800 man hours annually.  
-
-* Created a 200 member employee Ruby on Rails directory that was synchronized with the payroll system.
-
-* Researched and implemented third party solutions to improve support department operations, such as Livezilla, ShareFile, Spoon.net, Remember the Milk, Cacti, and Rackspace Cloud.
-
-* Nominated for the "Elite Achiever" Award 2011, an annual award given to the employee making the greatest positive impact.
-
-* Earned a promotion in June 2011 from Technical Support Representative to Application Engineer. 
+* Served in several roles including IT support, technical support then engineering. 
 
 ### Freelance Web Developer
 
@@ -74,8 +81,6 @@ http://www.compatibuddy.com
 
 * Created an online store in PHP for small publishing company:
 http://www.readablepress.com
-
-* Contributed torwards development of Django application for startup offering localized consumer reviews.
 
 * Completed a dozen Web scraping projects in Perl and Ruby, some involving solving CAPTCHAs.
 
