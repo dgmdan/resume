@@ -1,6 +1,7 @@
 # G. Dan Madere
 
 * **Location**: Toms River, NJ
+* **Web site**: [https://danmadere.com](https://danmadere.com)
 * **Email**: dan@danmadere.com
 * **Phone**: +1 (732) 608-2850
 
