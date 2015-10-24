@@ -6,70 +6,47 @@
 
 ## Background
 
-Full stack Web developer with four years of development work experience.
+Software engineer with six years experience in Web development and operations support.
 
 ## Education
 
-Bachelor of Arts (B.A.), History
-Graduated August 2007
-Pennsylvania State University, State College, PA
+B.A. History, Pennsylvania State University, State College, PA
 
-## Technical background
+## Skills
 
-* **Web**: XHTML, CSS, JavaScript, jQuery
-* **Ruby**: Rails, Devise, Haml, Heroku, Passenger, Resque, Sinatra
-* **Python**: Django, Allauth
-* **Database**: MySQL, SQLite, Postgres
-* **Linux**: Apache, Asterisk, CentOS, nginx, Red Hat, Ubuntu
+* **Ruby**: Rails 3.2-­4.2, minitest, devise, HAML, Heroku, resque, sinatra
+* **Python**: Django 1.4-­1.8, allauth, south
+* **Web**: XHTML, CSS, JavaScript, jQuery, jQuery mobile, Leaflet
+* **Database**: MySQL, Postgres, SQL Server, MongoDB, Redis
+* **Linux**: Apache, CentOS, nginx, Red Hat, Ubuntu
 
 ## Work Experience
 
-### Marathon Data Systems, Neptune, NJ
-_Software Engineer, October 2013 - present_
+### WorkWave, Neptune, NJ
+_Senior Software Engineer, October 2013 - present_
 
-* Developed software modifications and fixed bugs on PestPac, an industry leading field service management software.
-* Wrote custom reports and performed complex data updates using MS-SQL.
-* Collaborated with customer support and quality assurance teams to meet customer expectations and SLAs.
-* Contributed to requirements gathering and development of custom software modifications.
+* Developed features on existing classic ASP application, an enterprise CRM for managing pest control and other field service companies.
+* Overhauled internal documentation covering development environment setup, allowing new developers to get themselves up and running in hours rather than days.
+* Trained three new developers on architecture of application, source control workflows, manipulating application data and completing other common maintenance tasks.
+* Wrote complex SQL queries, optimized existing queries and performed one­time data updates.
 
-### Bizyhood, Marlboro, NJ
+### Bizyhood, Remote
 _Consultant, March 2013 - April 2015_
 
-* Developed features on a new Django site for a startup company offering small business marketing tools.
-* Projects included basic CRUD, schema design, user authentication, oAuth, content moderation and consuming REST APIs.
-* Developed a Wordpress plugin in PHP.
-* Collaborated with CEO, senior developer and UX designer to plan and execute the creation of a new product.
-* Worked on a remote team.
+* Developed a Django application for start­up offering small business marketing tools.
+* Completed projects requiring a variety of skills including consuming REST APIs, building a front­end with AJAX, designing a DB schema and authenticating users through oAuth.
+* Followed an Agile workflow, participating in daily stand­ups via video chat.
 
 ### Yashi Media Group, Toms River, NJ
 _Front End Developer, June 2013 – October 2013_
 
-* Developed a Ruby on Rails application for company delivering online video advertising. 
-* Created a video advertising campaign management application with a REST API. 
-* Extended existing CodeIgniter and Wordpress applications. 
-* Administered two dozen Ubuntu Web servers.
+* Developed two Ruby on Rails applications for company delivering online video advertising.
+* Developed front­end JavaScript code to provide interactive graphs and charts.
+* Developed features on existing CodeIgniter application.
+* Administered two dozen Ubuntu Web servers on AWS.
 
 ### Achieve3000 Inc., Lakewood, NJ
-_Application Engineer, January 2009 – June 2013_
+_Applications Engineer, January 2009 – June 2013_
 
-* Developed PHP and Ruby applications for this SaaS company serving K-12 schools. 
-* Served as Salesforce.com administrator, developed data integrations between SFDC and other systems. 
-* Served in several roles including IT support, technical support then engineering. 
-
-### TEMIS, Inc., Philadelphia, PA
-_Text Mining Consultant, June 2008 – September 2008_ 	
-
-* Prepared five custom product configurations and demonstrations to showcase Luxid, the company’s Java-based semantic analysis application suite. 
-* Developed and delivered four pre-sales semantic analysis and data mining software demonstrations.
-* Customized the company software suite for two customers and enhanced customer implementations by writing XML files, and collecting and importing data sources.
-* Administered customer implementations of the company software suite and internal Web servers for demonstrations.
-
-### Lightning Gaming, Inc., Boothwyn, PA
-_Technical Support Representative, November 2007 – June 2008_
-
-* Provided 24/7 on-site and on-call customer support for a casino gaming system. 
-* Wrote a Perl script to mass-generate cards for promotions and new deployments.
-* Supported Red Hat based transaction server.
-* Performed software and hardware new release product testing in coordination with the QA department.
-* Set up, troubleshot, and demonstrated the product in front of an audience at the Montreal Gaming Expo. 
-* Traveled to customer locations to perform emergency repairs and replacements.
+* Developed PHP and Ruby on Rails applications for this SaaS company serving K­12 schools.
+* Served as Salesforce.com administrator, developed data integrations between SFDC and other systems.
