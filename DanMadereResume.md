@@ -23,7 +23,7 @@ B.A. History, Pennsylvania State University, State College, PA
 
 ## Work Experience
 
-### U.S. News & World Report
+### U.S. News & World Report, Washington, DC
 _Senior Software Engineer, January 2016 - current_
 
 ### WorkWave, Neptune, NJ
