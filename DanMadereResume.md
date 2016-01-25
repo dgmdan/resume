@@ -1,6 +1,6 @@
 # G. Dan Madere
 
-* **Location**: Toms River, NJ
+* **Location**: Washington, DC
 * **Web site**: [https://danmadere.com](https://danmadere.com)
 * **Email**: dan@danmadere.com
 * **Phone**: +1 (732) 608-2850
@@ -23,8 +23,11 @@ B.A. History, Pennsylvania State University, State College, PA
 
 ## Work Experience
 
+### U.S. News & World Report
+_Senior Software Engineer, January 2016 - current_
+
 ### WorkWave, Neptune, NJ
-_Senior Software Engineer, October 2013 - present_
+_Senior Software Engineer, October 2013 - January 2016_
 
 * Developed features on existing classic ASP application, an enterprise CRM for managing pest control and other field service companies.
 * Overhauled internal documentation covering development environment setup, allowing new developers to get themselves up and running in hours rather than days.
