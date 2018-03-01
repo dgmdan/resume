@@ -3,11 +3,11 @@
 * **Location**: Washington, DC
 * **Web site**: [https://danmadere.com](https://danmadere.com)
 * **Email**: dan@danmadere.com
-* **Phone**: +1 (732) 608-2850
+* **Phone**: +1 (732) 575-8577
 
 ## Background
 
-Software engineer with seven years experience in Web development and operations support.
+Software engineer with eight years experience in Web development and operations support.
 
 ## Education
 
@@ -15,22 +15,23 @@ B.A. History, Pennsylvania State University, State College, PA
 
 ## Skills
 
-* **Ruby**: Rails 3.2-­4.2, minitest, devise, HAML, Heroku, resque, sinatra
-* **Python**: Django 1.0-­1.8, Django REST framework, allauth, south, threading
-* **Web**: XHTML, CSS, JavaScript, jQuery, jQuery mobile, Leaflet, memcached
-* **Database**: MySQL, Postgres, SQL Server, MongoDB, Redis, Elasticsearch
-* **Linux**: Apache, CentOS, nginx, uwsgi, Red Hat, Ubuntu
+* **Ruby**: Rails 3.2-5.1, minitest, devise, HAML, resque, sinatra, capistrano
+* **Python**: Django 1.0-1.11, Django REST framework, Django admin, allauth, south, threading
+* **Front end**: XHTML, CSS, JavaScript, jQuery, jQuery mobile, Leaflet
+* **Database**: MySQL, Postgres, SQL Server, MongoDB, Redis, Elasticsearch, memcached
+* **Systems**: Linux, AWS, New Relic, Apache, nginx, uwsgi
 
 ## Work Experience
 
 ### U.S. News & World Report, Washington, DC
-_Senior Software Engineer, Autos, January 2016 - current_
+_Senior Software Engineer, January 2016 - current_
 
-* Developed backend code for high-traffic Django application
-* Optimized existing code to improve security, capacity and SEO
-* Collaborated with three frontend developers on new features and refactoring code
-* Collaborated with SEO expert to improve URLs and other backend SEO factors
-* Trained new developers on application, infrastructure and setting up environments
+* Developed backend code for high-traffic Django application, the U.S. News Best Cars site.
+* Completed major features including car faceted search, local car deals and partner integrations.
+* Optimized existing code to improve security, response times, capacity and SEO.
+* Lead project to change domain name while successfully minimizing SEO and traffic disruptions.
+* Lead efforts to start using unit tests and database migrations.
+* Trained four developer new hires on product, infrastructure and setting up environments.
 
 ### WorkWave, Neptune, NJ
 _Senior Software Engineer, October 2013 - January 2016_
