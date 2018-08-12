@@ -16,10 +16,10 @@ B.A. History, Pennsylvania State University, State College, PA
 ## Skills
 
 * **Ruby**: Rails 3.2-5.1, minitest, devise, HAML, resque, sinatra, capistrano
-* **Python**: Django 1.0-1.11, Django REST framework, Django admin, allauth, south, threading
-* **Front end**: XHTML, CSS, JavaScript, jQuery, jQuery mobile, Leaflet
-* **Database**: MySQL, Postgres, SQL Server, MongoDB, Redis, Elasticsearch, memcached
-* **Systems**: Linux, AWS, New Relic, Apache, nginx, uwsgi
+* **Python**: Django 1.0-1.11, Django REST framework, Django admin, allauth
+* **Microsoft**: Classic ASP, ASP.NET, C#, Visual Basic, IIS
+* **Web**: XHTML, CSS, JavaScript, jQuery, Leaflet
+* **Database**: MySQL, Postgres, MS SQL Server, memcached
 
 ## Work Experience
 
@@ -27,11 +27,11 @@ B.A. History, Pennsylvania State University, State College, PA
 _Senior Software Engineer, January 2016 - current_
 
 * Developed backend code for high-traffic Django application, the U.S. News Best Cars site.
-* Completed major features including car faceted search, local car deals and partner integrations.
-* Optimized existing code to improve security, response times, capacity and SEO.
-* Lead project to change domain name while successfully minimizing SEO and traffic disruptions.
-* Lead efforts to start using unit tests and database migrations.
-* Trained four developer new hires on product, infrastructure and setting up environments.
+* Completed major features including faceted search, local deals, and partner integrations.
+* Optimized existing code to improve security, response times, and capacity.
+* Led project to change domain name while successfully minimizing traffic disruption.
+* Led initiative to start using unit tests and database migrations.
+* Trained four new developers on product, infrastructure and setting up environments.
 
 ### WorkWave, Neptune, NJ
 _Senior Software Engineer, October 2013 - January 2016_
