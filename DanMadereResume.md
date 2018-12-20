@@ -3,11 +3,10 @@
 * **Location**: Washington, DC
 * **Web site**: [https://danmadere.com](https://danmadere.com)
 * **Email**: dan@danmadere.com
-* **Phone**: +1 (732) 575-8577
 
 ## Background
 
-Software engineer with eight years experience in Web development and operations support.
+Software engineer with nine years experience in Web development and operations support.
 
 ## Education
 
@@ -17,9 +16,8 @@ B.A. History, Pennsylvania State University, State College, PA
 
 * **Ruby**: Rails 3.2-5.1, minitest, devise, HAML, resque, sinatra, capistrano
 * **Python**: Django 1.0-1.11, Django REST framework, Django admin, allauth
-* **Microsoft**: Classic ASP, ASP.NET, C#, Visual Basic, IIS
 * **Web**: XHTML, CSS, JavaScript, jQuery, Leaflet
-* **Database**: MySQL, Postgres, MS SQL Server, memcached
+* **Database**: MySQL, Postgres, Elasticsearch, memcached
 
 ## Work Experience
 
@@ -27,7 +25,7 @@ B.A. History, Pennsylvania State University, State College, PA
 _Senior Software Engineer, January 2016 - current_
 
 * Developed backend code for high-traffic Django application, the U.S. News Best Cars site.
-* Completed major features including faceted search, local deals, and partner integrations.
+* Completed major features including Elasticsearch faceted search, local deals, and partner integrations.
 * Optimized existing code to improve security, response times, and capacity.
 * Led project to change domain name while successfully minimizing traffic disruption.
 * Led initiative to start using unit tests and database migrations.
@@ -36,7 +34,7 @@ _Senior Software Engineer, January 2016 - current_
 ### WorkWave, Neptune, NJ
 _Senior Software Engineer, October 2013 - January 2016_
 
-* Developed features on existing classic ASP application, an enterprise CRM for managing pest control and other field service companies.
+* Developed features on enterprise CRM application for managing pest control and other field service companies.
 * Overhauled internal documentation covering development environment setup, allowing new developers to get themselves up and running in hours rather than days.
 * Trained three new developers on architecture of application, source control workflows, manipulating application data and completing other common maintenance tasks.
 * Wrote complex SQL queries, optimized existing queries and performed one­time data updates.
