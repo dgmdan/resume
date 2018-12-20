@@ -46,14 +46,6 @@ _Consultant, March 2013 - April 2015_
 * Completed projects requiring a variety of skills including consuming REST APIs, building a front­end with AJAX, designing a DB schema and authenticating users through oAuth.
 * Followed an Agile workflow, participating in daily stand­ups via video chat.
 
-### Yashi Media Group, Toms River, NJ
-_Front End Developer, June 2013 – October 2013_
-
-* Developed two Ruby on Rails applications for company delivering online video advertising.
-* Developed front­end JavaScript code to provide interactive graphs and charts.
-* Developed features on existing CodeIgniter application.
-* Administered two dozen Ubuntu Web servers on AWS.
-
 ### Achieve3000 Inc., Lakewood, NJ
 _Applications Engineer, January 2009 – June 2013_
 
