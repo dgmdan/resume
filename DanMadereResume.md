@@ -1,53 +1,37 @@
-# G. Dan Madere
-
-* **Location**: Washington, DC
-* **Web site**: [https://danmadere.com](https://danmadere.com)
+# Dan Madere
+* **Location:** Point Pleasant, NJ
 * **Email**: dan@danmadere.com
+* **Web**: https://danmadere.com
 
 ## Background
 
-Software engineer with nine years experience in Web development and operations support.
+Software engineer with thirteen years experience in Web development and operations support with focus on Django and 
+Ruby on Rails frameworks.
+
+## Work Experience
+
+### [Roadster/CDK Global](https://hyundaidemo.roadster.com) - Senior Software Engineer - May 2021 to current
+* Overhauled code related to "sales matching" algorithm, which matches reported third-party auto sales to Roadster 
+  users, helping prove the effectiveness of the product.
+* Enhanced the “build your own car” feature to more accurately reflect how manufacturers allow a new car to be configured.
+* Found ways to contribute to the culture of a fully remote, geographically distributed team, including efforts in CI, 
+  pull requests, in-person meet-ups and conferences.
+* Roadster was acquired by CDK Global in June 2021, which was then acquired by Brookfield in April 2022.
+
+### [U.S. News & World Report](https://cars.usnews.com) - Senior Software Engineer - January 2016 to May 2021
+* Developed Django code for a high-traffic media Web site, U.S. News Best Cars.
+* Led technical efforts in changing domain names, maintaining redirects, and ensuring SEO performance during the transition.
+* Developed a "car finder" faceted search using Elasticsearch, reducing its load time by 88%.
+
+### [WorkWave](https://workwave.com) - Senior Software Engineer - October 2013 to January 2016
+* Developed features on enterprise CRM application for managing pest control and other field service companies.
+* Overhauled internal documentation covering development environment setup, allowing new developers to get themselves up
+  and running in hours rather than days.
+
+## Skills & Interests
+
+Heroku, Ruby on Rails, Postgres, Django, Pinball, Travel
 
 ## Education
 
 B.A. History, Pennsylvania State University, State College, PA
-
-## Skills
-
-* **Ruby**: Rails 3.2-5.1, minitest, devise, HAML, resque, sinatra, capistrano
-* **Python**: Django 1.0-1.11, Django REST framework, Django admin, allauth
-* **Web**: XHTML, CSS, JavaScript, jQuery, Leaflet
-* **Database**: MySQL, Postgres, Elasticsearch, memcached
-
-## Work Experience
-
-### U.S. News & World Report, Washington, DC
-_Senior Software Engineer, January 2016 - current_
-
-* Developed backend code for high-traffic Django application, the U.S. News Best Cars site.
-* Completed major features including Elasticsearch faceted search, local deals, and partner integrations.
-* Optimized existing code to improve security, response times, and capacity.
-* Led project to change domain name while successfully minimizing traffic disruption.
-* Led initiative to start using unit tests and database migrations.
-* Trained four new developers on product, infrastructure and setting up environments.
-
-### WorkWave, Neptune, NJ
-_Senior Software Engineer, October 2013 - January 2016_
-
-* Developed features on enterprise CRM application for managing pest control and other field service companies.
-* Overhauled internal documentation covering development environment setup, allowing new developers to get themselves up and running in hours rather than days.
-* Trained three new developers on architecture of application, source control workflows, manipulating application data and completing other common maintenance tasks.
-* Wrote complex SQL queries, optimized existing queries and performed one­time data updates.
-
-### Bizyhood, Remote
-_Consultant, March 2013 - April 2015_
-
-* Developed a Django application for start­up offering small business marketing tools.
-* Completed projects requiring a variety of skills including consuming REST APIs, building a front­end with AJAX, designing a DB schema and authenticating users through oAuth.
-* Followed an Agile workflow, participating in daily stand­ups via video chat.
-
-### Achieve3000 Inc., Lakewood, NJ
-_Applications Engineer, January 2009 – June 2013_
-
-* Developed PHP and Ruby on Rails applications for this SaaS company serving K­12 schools.
-* Served as Salesforce.com administrator, developed data integrations between SFDC and other systems.
